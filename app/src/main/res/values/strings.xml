@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AsyncAndroid</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="asynctask_title">AsyncTask Fragment</string>
+    <string name="asynctask_desc">Retained Headless Fragment to continue AsyncTask processing across activity restarts</string>
+
+
+    <string name="calculating">Calculating&#8230;</string>
+    <string name="no_result_yet">Press a button</string>
+    <string name="do_in_background">Execute in background</string>
+    <string name="title_activity_loader">LoaderActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
